@@ -1,0 +1,11 @@
+name: ArmorStandGUI
+version: '${project.version}'
+main: me.halebradley.armorstandgui.ArmorStandGUI
+api-version: '1.20'
+author: 'Hale Bradley'
+commands:
+  armorstand:
+    description: Allows player to create and customize armor stands
+    usage: /<command>
+    aliases:
+      - as

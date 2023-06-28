@@ -1,0 +1,11 @@
+#Menu Titles
+main-menu: "Armor Stand GUI"
+create-menu: "Create an Armor Stand"
+confirmation-menu: "Confirm Option"
+armor-menu: "Choose the Armor"
+
+#Menu Messages/Options
+create-message: "Created Armor Stand"
+delete-message: "Deleted Armor Stand"
+confirm-option: "Option Confirmed"
+deny-option: "Option Denied"
